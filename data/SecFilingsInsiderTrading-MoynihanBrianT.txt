@@ -1,0 +1,1404 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head><!--36 100.1.128.241-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Insider Trading - Moynihan Brian T - Form 4 SEC Filings</title>
+<meta name="description" content="Moynihan Brian T form 4 sec filings insider trading and stock options: reveal insider stocks held, purchased, sold, and stock options awarded filed with SEC EDGAR database.">
+<meta name="keywords" content="Moynihan Brian T,form 4,SEC,filings,insider,stocks,options,trading,trades,buying,selling,history">
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/array.js"></script>
+
+
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/common.css">
+
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/func.js"></script>
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/sortable.css">
+<script type="text/javascript" src="http://www.secform4.com/rsc/sortabletable.js"></script>
+
+
+</head>
+<body>
+<div class="SecForm4Page" id="SecForm4Page" style="width:980px;">
+<div style="font-size: 16; height:30; background-color:#ddd;">
+
+<div style="float:left; padding:5 0 0 10;">
+<a href="/">Home</a> |
+<a href="/archives.htm">Archives</a> |
+<a href="/insider-trading-reports.htm">Products</a> |
+<a rel="NoFollow" href="/site/about.htm">About</a> |
+<a rel="NoFollow" href="/site/contact.htm">Contact</a> |
+<a rel="NoFollow" href="/site/faq.htm">FAQ</a> |
+
+</div>
+
+<div style="float:right; padding:5 10 0 0;">
+New User?
+<a rel="NoFollow" href="/account/signup">Sign Up</a> | 
+<a rel="NoFollow" href="/account/login">Sign In</a>
+</div>
+
+</div>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="0" id="menubar" class="menubar" style="clear:both;">
+<tbody align="center">
+<tr>
+
+  <td rowspan="2" width="20%">
+    <a href="/"><img border="0" src="/images/logo3.gif" alt="insider trading reports,buying,selling,purchases"></a>
+  </td>
+  <td width="16%">
+    <a title="insider trades" href="/sec-filings.htm">Form 4 Filings</a>
+  </td>
+
+  <td width="16%">
+    <a href="/buying.htm">Insider Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/significant-buys.htm">Significant Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/penny-stocks.htm">Penny Stocks<br>Insider Buying</a>
+  </td>
+
+  <td width="16%">
+    <a href="/selling.htm">Insider Sales</a>
+  </td>
+
+</tr>
+
+<tr>
+
+  <td>
+    <a href="/i-ratios.htm">Insider Buy Sell Ratios</a>
+  </td>
+
+  <td>
+    <a href="/stock-options.htm">Stock Options</a>
+  </td>
+
+  <td>
+    <a href="/stock-screener.htm">Insider Trading<br>Stock Screener</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/edgar-filings.php">Insider Trading<br>Graph View</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/watch.htm">Insider Watch</a>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<div  class="tag" id="tag">
+<big><b>Sec Filings Insider Trading - Moynihan Brian T</b></big>
+</div>
+
+
+
+<table cellspacing="0" cellpadding="2" border="1" class="itable">
+  <tbody>
+    <tr class="r0">
+      <td style="font-size:12px;width:65%;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;"><Form action="" method="POST">
+Select Time period: <select  name="ChartPeriod">
+  <option value="1">1 Month</option>
+  <option value="2">2 Months</option>
+  <option value="3">3 Months</option>
+  <option value="6">6 Months</option>
+  <option value="12">1 Year</option>
+  <option value="24" selected="selected">2 Years</option>
+  <option value="36">3 Years</option>
+  <option value="48">4 Years</option>
+  <option value="0">All Data</option>
+</select> <input type="submit" value="Go!" >
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_google.gif" alt="google icon">
+<a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=add&amp;title=Insider Trading - Moynihan Brian T&amp;bkmk=http://www.secform4.com/insider-trading/1195071.htm" target="_blank">
+google
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_yahoo.gif" alt="yahoo icon">
+<a rel="nofollow" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.secform4.com/insider-trading/1195071.htm&amp;t=Insider Trading - Moynihan Brian T&amp;popup=true" target="_blank">
+yahoo!
+</a>
+
+
+<hr>
+
+<div>
+Send this page to:&nbsp;&nbsp;
+<img style="vertical-align:middle;" src="/images/blogger-logo.gif" alt="blogger icon">
+<a rel="nofollow" href="#F1" onClick="JDialog('/site/showchart?cik=1195071&amp;t=24&amp;name=Moynihan Brian T','_showchart','width=700,height=520,menubar=0,resizable=1,titlebar=0,scrollbars=1'); return false;">Blog</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/digg.gif" alt="digg icon">
+<a rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http://www.secform4.com/insider-trading/1195071.htm&amp;title=Insider Trading - Moynihan Brian T" target="_blank">
+Digg
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/reddit.gif" alt="reddit icon">
+<a rel="nofollow" href="http://reddit.com/submit?url=http://www.secform4.com/insider-trading/1195071.htm&amp;title=Insider Trading - Moynihan Brian T" target="_blank">
+Reddit
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/facebook.gif" alt="facebook icon">
+<a rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.secform4.com/insider-trading/1195071.htm" class="fb_share_button" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.secform4.com/insider-trading/1195071.htm&amp;t=Insider Trading - Moynihan Brian T','sharer','toolbar=0,status=0,width=626,height=436');return false;" target="_blank">
+Facebook
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/stumble.gif" alt="stumble icon">
+<a rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://www.secform4.com/insider-trading/1195071.htm&amp;title=Insider Trading - Moynihan Brian T" target="_blank">
+Stumble
+</a>
+&nbsp;&nbsp;
+<!--
+<img style="vertical-align:middle;" src="/images/fark.gif" alt="fark icon">
+<a rel="nofollow" href="http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.secform4.com/insider-trading/1195071.htm&amp;h=Insider Trading - Moynihan Brian T" target="_blank">
+Fark
+</a>
+&nbsp;
+-->
+<img style="vertical-align:middle;" src="/images/delicious.gif" alt="delicious icon">
+<a rel="nofollow" href="http://del.icio.us/post?url=http://www.secform4.com/insider-trading/1195071.htm&amp;title=Insider Trading - Moynihan Brian T" target="_blank">
+del.icio.us
+</a>
+
+</div>
+
+<input type="hidden" name="_id1" value="1436471656" style="width:auto">
+<input type="hidden" name="_id2" value="6d047526f4eeb139a9fc972fcd0bf067" style="width:auto">
+</Form>
+<hr style="margin-bottom:0">
+
+<form action="/insider/showhistory.php" name="cikform" id="cikform" method="GET" OnSubmit="return ValidateCik( cik.value );">
+<div>
+Enter Stock Ticker Symbol or Cik:
+<input size="20" name="cik" style="background-color:pink;">
+<input value="Search!" type="submit">
+<img src="/images/lookup.gif" alt="SEC Cik Lookup">
+<strong>
+<a href="#cik" onClick="cikDialog(); return false;">Cik Lookup...</a>
+</strong>
+</div>
+</form>
+
+<hr style="margin-bottom:0">
+
+<form style="padding:0; margin:0;" method="get" action="http://www.google.com/search">
+<div style="font-size:12px">
+Search By Company or Insider Name:
+<input type="hidden" name="as_sitesearch" value="secform4.com/insider-trading">
+<input style="background-color:pink;" size="30" type="text" value="" name="as_q" id="as_q">
+<input type="submit" value="Search!">
+<img style="vertical-align:middle;" src="/images/powered_by_google.gif" alt="Powered by Google button">
+</div>
+</form>
+
+</td>
+      <td style="font-size:12px;padding-left:10px;padding-right:10px">"Insiders might sell their shares for any number of reasons, but they buy them for only one:
+they think the price will rise"<br>
+- Peter Lynch ==&gt;&gt;
+<!--
+<a href="#" OnClick="gotoTraining( 'what-is-insider-trading' ); return false;">What is insider trading&gt;&gt;</a>
+-->
+<a href="/training/what-is-insider-trading.htm">What is insider trading&gt;&gt;</a>
+
+<hr>
+<div>
+<img src="/images/email.gif" height="12" width="13" alt="Email about Insider Trading">
+<a href="mailto:?subject=Insider%20Trading%20-%20Moynihan%20Brian%20T%20-%20Form%204%20SEC%20Filings&amp;body=Check%20out%20these%20insider%20trading%20filings:%0D%0Ahttp://www.secform4.com/insider-trading/1195071.htm"><b>Email a friend &gt;&gt;...</b></a>
+</div>
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<div class="chart"><img src="/ichart-1195071-960-180-24.png" height="180" width="960" alt="Insider Trading Transactions for Moynihan Brian T"></div>
+
+<div style="background: #FFE6E6; padding: 5px; border:1px red solid;font-size:16px;font-weight:bold;margin:10px;" align="center">
+Historical filings delayed by 6 months. New user?
+<a rel="nofollow" href="/account/signup">Sign Up</a> for real time data.
+Existing user?
+<a rel="nofollow" href="/account/login">Sign In</a>
+</div>
+
+<div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Stock options: Exercise, Award, Grant, Conversion</div>
+<table border="1" cellspacing="0" class="sort-table" id="option_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Exercisable<BR>Expiration</td>
+      <td>Company</td>
+      <td>Symnbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Conversion<BR>Price</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="M">2014-12-14<BR>Exercise</td>
+      <td>2014-12-16<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-025237.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-12-14<BR>Disposition</td>
+      <td>2014-12-16<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$17.13</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-025237.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-14<BR>Exercise</td>
+      <td>2014-12-16<BR>4:07 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-025237.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-14<BR>Exercise</td>
+      <td>2014-11-18<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-023486.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-11-14<BR>Disposition</td>
+      <td>2014-11-18<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$17.14</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-023486.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-14<BR>Exercise</td>
+      <td>2014-11-18<BR>4:03 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-023486.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-14<BR>Exercise</td>
+      <td>2014-10-16<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-021654.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-10-14<BR>Disposition</td>
+      <td>2014-10-16<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$16.52</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-021654.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-14<BR>Exercise</td>
+      <td>2014-10-16<BR>4:03 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">Chairman and CEO<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-021654.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-14<BR>Exercise</td>
+      <td>2014-09-16<BR>4:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-020021.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-09-14<BR>Disposition</td>
+      <td>2014-09-16<BR>4:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$16.79</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-020021.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-14<BR>Exercise</td>
+      <td>2014-09-16<BR>4:14 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-020021.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-14<BR>Exercise</td>
+      <td>2014-08-18<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-018648.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-08-14<BR>Disposition</td>
+      <td>2014-08-18<BR>4:03 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$15.32</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-018648.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-14<BR>Exercise</td>
+      <td>2014-08-18<BR>4:03 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-018648.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-14<BR>Exercise</td>
+      <td>2014-07-16<BR>4:18 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-017105.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-07-14<BR>Disposition</td>
+      <td>2014-07-16<BR>4:18 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$15.57</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-017105.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-14<BR>Exercise</td>
+      <td>2014-07-16<BR>4:18 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-017105.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-14<BR>Exercise</td>
+      <td>2014-06-17<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-015203.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-06-14<BR>Disposition</td>
+      <td>2014-06-17<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$15.44</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-015203.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-14<BR>Exercise</td>
+      <td>2014-06-17<BR>4:04 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-015203.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-05-14<BR>Exercise</td>
+      <td>2014-05-16<BR>4:05 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-013164.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-05-14<BR>Disposition</td>
+      <td>2014-05-16<BR>4:05 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$14.84</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-013164.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-05-14<BR>Exercise</td>
+      <td>2014-05-16<BR>4:05 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-013164.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-04-14<BR>Exercise</td>
+      <td>2014-04-16<BR>4:05 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-010753.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-04-14<BR>Disposition</td>
+      <td>2014-04-16<BR>4:05 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$16</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-010753.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-04-14<BR>Exercise</td>
+      <td>2014-04-16<BR>4:05 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-010753.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-14<BR>Exercise</td>
+      <td>2014-03-18<BR>4:27 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-008513.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-03-14<BR>Disposition</td>
+      <td>2014-03-18<BR>4:27 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$16.8</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-008513.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-14<BR>Exercise</td>
+      <td>2014-03-18<BR>4:27 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,780</td>
+      <td>$0</td>
+      <td>614,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-008513.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>130,350</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,621</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>12,415</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-03-01<BR>Disposition</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>12,415</td>
+      <td>$16.53</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-03-01<BR>Tax Withholding</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>71,134</td>
+      <td>$16.53</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>12,415</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>18,621</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-03-01<BR>Exercise</td>
+      <td>2014-03-04<BR>4:09 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>130,350</td>
+      <td>$0</td>
+      <td>679,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-007261.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-02-14<BR>Exercise</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>61,749</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-02-14<BR>Exercise</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-02-14<BR>Disposition</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$16.7</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-02-14<BR>Tax Withholding</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>25,652</td>
+      <td>$16.7</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-02-14<BR>Option Award</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>2015-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>225,361</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-02-14<BR>Option Award</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>375,601</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-02-14<BR>Option Award</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>2017-02-14</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>150,241</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-02-14<BR>Exercise</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-02-14<BR>Exercise</td>
+      <td>2014-02-19<BR>6:35 pm</td>
+      <td>N/A<BR>2016-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>61,749</td>
+      <td>$0</td>
+      <td>566,711<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-005174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-01-15<BR>Option Award</td>
+      <td>2014-01-17<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$17.15</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-002007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-01-15<BR>Disposition</td>
+      <td>2014-01-17<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-002007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2014-01-15<BR>Disposition</td>
+      <td>2014-01-17<BR>4:08 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-14-002007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-12-15<BR>Option Award</td>
+      <td>2013-12-17<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-025567.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-12-15<BR>Disposition</td>
+      <td>2013-12-17<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$15.18</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-025567.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-12-15<BR>Disposition</td>
+      <td>2013-12-17<BR>4:08 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-025567.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-11-15<BR>Option Award</td>
+      <td>2013-11-19<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-023882.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-11-15<BR>Disposition</td>
+      <td>2013-11-19<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$14.92</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-023882.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-11-15<BR>Disposition</td>
+      <td>2013-11-19<BR>4:04 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-023882.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-10-15<BR>Option Award</td>
+      <td>2013-10-17<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-021988.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-10-15<BR>Disposition</td>
+      <td>2013-10-17<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$14.24</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-021988.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-10-15<BR>Disposition</td>
+      <td>2013-10-17<BR>4:07 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-021988.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-09-15<BR>Exercise</td>
+      <td>2013-09-17<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-020117.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-09-15<BR>Disposition</td>
+      <td>2013-09-17<BR>4:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$14.49</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-020117.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-09-15<BR>Exercise</td>
+      <td>2013-09-17<BR>4:04 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-020117.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-08-15<BR>Exercise</td>
+      <td>2013-08-19<BR>4:06 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-018159.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-08-15<BR>Disposition</td>
+      <td>2013-08-19<BR>4:06 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$14.32</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-018159.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-08-15<BR>Exercise</td>
+      <td>2013-08-19<BR>4:06 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-018159.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-07-15<BR>Exercise</td>
+      <td>2013-07-17<BR>4:12 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-016309.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-07-15<BR>Disposition</td>
+      <td>2013-07-17<BR>4:12 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$13.88</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-016309.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-07-15<BR>Exercise</td>
+      <td>2013-07-17<BR>4:12 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-016309.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-06-15<BR>Exercise</td>
+      <td>2013-06-18<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-014515.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-06-15<BR>Disposition</td>
+      <td>2013-06-18<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$13.07</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-014515.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-06-15<BR>Exercise</td>
+      <td>2013-06-18<BR>4:07 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-014515.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-05-15<BR>Exercise</td>
+      <td>2013-05-17<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-012665.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-05-15<BR>Disposition</td>
+      <td>2013-05-17<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$13.44</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-012665.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-05-15<BR>Exercise</td>
+      <td>2013-05-17<BR>4:07 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-012665.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-04-15<BR>Exercise</td>
+      <td>2013-04-17<BR>4:12 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-010098.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-04-15<BR>Disposition</td>
+      <td>2013-04-17<BR>4:12 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$11.98</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-010098.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-04-15<BR>Exercise</td>
+      <td>2013-04-17<BR>4:12 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,156</td>
+      <td>$0</td>
+      <td>504,962<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-010098.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-03-15<BR>Exercise</td>
+      <td>2013-03-19<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,155</td>
+      <td>$0</td>
+      <td>504,961<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-008007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-03-15<BR>Disposition</td>
+      <td>2013-03-19<BR>4:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,155</td>
+      <td>$12.57</td>
+      <td>504,961<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-008007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-03-15<BR>Exercise</td>
+      <td>2013-03-19<BR>4:08 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>23,155</td>
+      <td>$0</td>
+      <td>504,961<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-008007.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-03-01<BR>Exercise</td>
+      <td>2013-03-05<BR>4:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>86,899</td>
+      <td>$0</td>
+      <td>568,705<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-006633.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-03-01<BR>Disposition</td>
+      <td>2013-03-05<BR>4:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>86,899</td>
+      <td>$11.34</td>
+      <td>568,705<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-006633.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-03-01<BR>Exercise</td>
+      <td>2013-03-05<BR>4:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>86,899</td>
+      <td>$0</td>
+      <td>568,705<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-006633.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-02-15<BR>Exercise</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,026</td>
+      <td>$0</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-02-15<BR>Disposition</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,026</td>
+      <td>$12.03</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-02-15<BR>Exercise</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>2013-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,026</td>
+      <td>$0</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-02-15<BR>Option Award</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>2014-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>277,871</td>
+      <td>$0</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-02-15<BR>Option Award</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>463,119</td>
+      <td>$0</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2013-02-15<BR>Option Award</td>
+      <td>2013-02-19<BR>4:07 pm</td>
+      <td>N/A<BR>2016-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>185,248</td>
+      <td>$0</td>
+      <td>500,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-004525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-01-15<BR>Exercise</td>
+      <td>2013-01-16<BR>4:15 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,025</td>
+      <td>$0</td>
+      <td>500,831<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-001557.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="D">2013-01-15<BR>Disposition</td>
+      <td>2013-01-16<BR>4:15 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,025</td>
+      <td>$11.55</td>
+      <td>500,831<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-001557.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2013-01-15<BR>Exercise</td>
+      <td>2013-01-16<BR>4:15 pm</td>
+      <td>N/A<BR>2013-02-15</td>
+      <td><a href="/insider-trading/70858.htm">Bank Of America Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('BAC'); return false;">BAC</a></td>
+      <td>Moynihan Brian T<BR><span class="pos">CEO and President<BR>Director</span></td>
+      <td>19,025</td>
+      <td>$0</td>
+      <td>500,831<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/70858/0001225208-13-001557.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var option_table = new SortableTable( document.getElementById( "option_table" ),[ "String", "String", "String", "String", "String", "String", "Number", "Currency", "Number", "None" ] );
+  option_table.sort( 1, true, "String" );
+</script>
+
+
+
+  <div style="clear:both;height:auto;">
+<table id="footer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+  <tr>
+  <td valign="middle">
+    &copy; 2005-2015 <a href="/">SecForm4.Com</a> All rights reserved.<br>
+    Archives:
+    <a href="/archives/2015.htm">2015</a> <a href="/archives/2014.htm">2014</a> <a href="/archives/2013.htm">2013</a> <a href="/archives/2012.htm">2012</a> <a href="/archives/2011.htm">2011</a> <a href="/archives/2010.htm">2010</a> <a href="/archives.htm">...</a> <br>
+    Thu, 09 Jul 2015 14:54:16 -0500
+  </td>
+  <td valign="middle">
+    SEC is the U.S. Securities and Exchange Commission. EDGAR is a trademark of the SEC.<br>
+    SecForm4.Com is not affiliated with or approved by the U.S. Securities and Exchange Commission (SEC).<br>
+    <a rel="nofollow" href="/site/tos.htm">Terms of Use</a> |
+    <a rel="nofollow" href="/site/privacy.htm">Privacy Statement</a> |
+  </td>
+  </tr>
+</tbody>
+</table>
+
+  </div>
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-642623-4");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

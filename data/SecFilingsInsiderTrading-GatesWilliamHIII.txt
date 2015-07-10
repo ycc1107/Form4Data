@@ -1,0 +1,790 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head><!--36 100.1.128.241-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Insider Trading - Gates William H III - Form 4 SEC Filings</title>
+<meta name="description" content="Gates William H III form 4 sec filings insider trading and stock options: reveal insider stocks held, purchased, sold, and stock options awarded filed with SEC EDGAR database.">
+<meta name="keywords" content="Gates William H III,form 4,SEC,filings,insider,stocks,options,trading,trades,buying,selling,history">
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/array.js"></script>
+
+
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/common.css">
+
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/func.js"></script>
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/sortable.css">
+<script type="text/javascript" src="http://www.secform4.com/rsc/sortabletable.js"></script>
+
+
+</head>
+<body>
+<div class="SecForm4Page" id="SecForm4Page" style="width:980px;">
+<div style="font-size: 16; height:30; background-color:#ddd;">
+
+<div style="float:left; padding:5 0 0 10;">
+<a href="/">Home</a> |
+<a href="/archives.htm">Archives</a> |
+<a href="/insider-trading-reports.htm">Products</a> |
+<a rel="NoFollow" href="/site/about.htm">About</a> |
+<a rel="NoFollow" href="/site/contact.htm">Contact</a> |
+<a rel="NoFollow" href="/site/faq.htm">FAQ</a> |
+
+</div>
+
+<div style="float:right; padding:5 10 0 0;">
+New User?
+<a rel="NoFollow" href="/account/signup">Sign Up</a> | 
+<a rel="NoFollow" href="/account/login">Sign In</a>
+</div>
+
+</div>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="0" id="menubar" class="menubar" style="clear:both;">
+<tbody align="center">
+<tr>
+
+  <td rowspan="2" width="20%">
+    <a href="/"><img border="0" src="/images/logo3.gif" alt="insider trading reports,buying,selling,purchases"></a>
+  </td>
+  <td width="16%">
+    <a title="insider trades" href="/sec-filings.htm">Form 4 Filings</a>
+  </td>
+
+  <td width="16%">
+    <a href="/buying.htm">Insider Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/significant-buys.htm">Significant Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/penny-stocks.htm">Penny Stocks<br>Insider Buying</a>
+  </td>
+
+  <td width="16%">
+    <a href="/selling.htm">Insider Sales</a>
+  </td>
+
+</tr>
+
+<tr>
+
+  <td>
+    <a href="/i-ratios.htm">Insider Buy Sell Ratios</a>
+  </td>
+
+  <td>
+    <a href="/stock-options.htm">Stock Options</a>
+  </td>
+
+  <td>
+    <a href="/stock-screener.htm">Insider Trading<br>Stock Screener</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/edgar-filings.php">Insider Trading<br>Graph View</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/watch.htm">Insider Watch</a>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<div  class="tag" id="tag">
+<big><b>Sec Filings Insider Trading - Gates William H III</b></big>
+</div>
+
+
+
+<table cellspacing="0" cellpadding="2" border="1" class="itable">
+  <tbody>
+    <tr class="r0">
+      <td style="font-size:12px;width:65%;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;"><Form action="" method="POST">
+Select Time period: <select  name="ChartPeriod">
+  <option value="1">1 Month</option>
+  <option value="2">2 Months</option>
+  <option value="3">3 Months</option>
+  <option value="6">6 Months</option>
+  <option value="12">1 Year</option>
+  <option value="24" selected="selected">2 Years</option>
+  <option value="36">3 Years</option>
+  <option value="48">4 Years</option>
+  <option value="0">All Data</option>
+</select> <input type="submit" value="Go!" >
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_google.gif" alt="google icon">
+<a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=add&amp;title=Insider Trading - Gates William H III&amp;bkmk=http://www.secform4.com/insider-trading/902012.htm" target="_blank">
+google
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_yahoo.gif" alt="yahoo icon">
+<a rel="nofollow" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.secform4.com/insider-trading/902012.htm&amp;t=Insider Trading - Gates William H III&amp;popup=true" target="_blank">
+yahoo!
+</a>
+
+
+<hr>
+
+<div>
+Send this page to:&nbsp;&nbsp;
+<img style="vertical-align:middle;" src="/images/blogger-logo.gif" alt="blogger icon">
+<a rel="nofollow" href="#F1" onClick="JDialog('/site/showchart?cik=902012&amp;t=24&amp;name=Gates William H III','_showchart','width=700,height=520,menubar=0,resizable=1,titlebar=0,scrollbars=1'); return false;">Blog</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/digg.gif" alt="digg icon">
+<a rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http://www.secform4.com/insider-trading/902012.htm&amp;title=Insider Trading - Gates William H III" target="_blank">
+Digg
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/reddit.gif" alt="reddit icon">
+<a rel="nofollow" href="http://reddit.com/submit?url=http://www.secform4.com/insider-trading/902012.htm&amp;title=Insider Trading - Gates William H III" target="_blank">
+Reddit
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/facebook.gif" alt="facebook icon">
+<a rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.secform4.com/insider-trading/902012.htm" class="fb_share_button" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.secform4.com/insider-trading/902012.htm&amp;t=Insider Trading - Gates William H III','sharer','toolbar=0,status=0,width=626,height=436');return false;" target="_blank">
+Facebook
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/stumble.gif" alt="stumble icon">
+<a rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://www.secform4.com/insider-trading/902012.htm&amp;title=Insider Trading - Gates William H III" target="_blank">
+Stumble
+</a>
+&nbsp;&nbsp;
+<!--
+<img style="vertical-align:middle;" src="/images/fark.gif" alt="fark icon">
+<a rel="nofollow" href="http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.secform4.com/insider-trading/902012.htm&amp;h=Insider Trading - Gates William H III" target="_blank">
+Fark
+</a>
+&nbsp;
+-->
+<img style="vertical-align:middle;" src="/images/delicious.gif" alt="delicious icon">
+<a rel="nofollow" href="http://del.icio.us/post?url=http://www.secform4.com/insider-trading/902012.htm&amp;title=Insider Trading - Gates William H III" target="_blank">
+del.icio.us
+</a>
+
+</div>
+
+<input type="hidden" name="_id1" value="1436471659" style="width:auto">
+<input type="hidden" name="_id2" value="ccd49ab392a878cf8b1db0ac8fa4d260" style="width:auto">
+</Form>
+<hr style="margin-bottom:0">
+
+<form action="/insider/showhistory.php" name="cikform" id="cikform" method="GET" OnSubmit="return ValidateCik( cik.value );">
+<div>
+Enter Stock Ticker Symbol or Cik:
+<input size="20" name="cik" style="background-color:pink;">
+<input value="Search!" type="submit">
+<img src="/images/lookup.gif" alt="SEC Cik Lookup">
+<strong>
+<a href="#cik" onClick="cikDialog(); return false;">Cik Lookup...</a>
+</strong>
+</div>
+</form>
+
+<hr style="margin-bottom:0">
+
+<form style="padding:0; margin:0;" method="get" action="http://www.google.com/search">
+<div style="font-size:12px">
+Search By Company or Insider Name:
+<input type="hidden" name="as_sitesearch" value="secform4.com/insider-trading">
+<input style="background-color:pink;" size="30" type="text" value="" name="as_q" id="as_q">
+<input type="submit" value="Search!">
+<img style="vertical-align:middle;" src="/images/powered_by_google.gif" alt="Powered by Google button">
+</div>
+</form>
+
+</td>
+      <td style="font-size:12px;padding-left:10px;padding-right:10px">"Insiders might sell their shares for any number of reasons, but they buy them for only one:
+they think the price will rise"<br>
+- Peter Lynch ==&gt;&gt;
+<!--
+<a href="#" OnClick="gotoTraining( 'what-is-insider-trading' ); return false;">What is insider trading&gt;&gt;</a>
+-->
+<a href="/training/what-is-insider-trading.htm">What is insider trading&gt;&gt;</a>
+
+<hr>
+<div>
+<img src="/images/email.gif" height="12" width="13" alt="Email about Insider Trading">
+<a href="mailto:?subject=Insider%20Trading%20-%20Gates%20William%20H%20III%20-%20Form%204%20SEC%20Filings&amp;body=Check%20out%20these%20insider%20trading%20filings:%0D%0Ahttp://www.secform4.com/insider-trading/902012.htm"><b>Email a friend &gt;&gt;...</b></a>
+</div>
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<div class="chart"><img src="/ichart-902012-960-180-24.png" height="180" width="960" alt="Insider Trading Transactions for Gates William H III"></div>
+
+<div style="background: #FFE6E6; padding: 5px; border:1px red solid;font-size:16px;font-weight:bold;margin:10px;" align="center">
+Historical filings delayed by 6 months. New user?
+<a rel="nofollow" href="/account/signup">Sign Up</a> for real time data.
+Existing user?
+<a rel="nofollow" href="/account/login">Sign In</a>
+</div>
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '902012-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '902012-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '902012-3' ); return false;">3</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '902012-1' ); return false;">Next</a></font></div>
+<BR><div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Common stock purchase or sale:</div>
+<table border="1" cellspacing="0" class="sort-table" id="filing_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Company</td>
+      <td>Symbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Average<BR>Price</td>
+      <td>Total<BR>Amount</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="P">2015-01-07<BR>Purchase</td>
+      <td>2015-01-09<BR>4:55 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>25,000</td>
+      <td>$11.34</td>
+      <td>$283,442</td>
+      <td>11,386,329<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-15-001209.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2015-01-02<BR>Purchase</td>
+      <td>2015-01-06<BR>4:38 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>100</td>
+      <td>$11.29</td>
+      <td>$1,129</td>
+      <td>11,361,329<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-15-000805.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-30<BR>Purchase</td>
+      <td>2015-01-02<BR>4:10 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>125,000</td>
+      <td>$11.26</td>
+      <td>$1,407,075</td>
+      <td>11,361,229<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-15-000064.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-23<BR>Purchase</td>
+      <td>2014-12-29<BR>06:00 am</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>4,700</td>
+      <td>$11.25</td>
+      <td>$52,877</td>
+      <td>11,236,229<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025842.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-23<BR>Purchase</td>
+      <td>2014-12-29<BR>06:00 am</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>9,200</td>
+      <td>$11.46</td>
+      <td>$105,434</td>
+      <td>6,110,485<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025841.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-22<BR>Purchase</td>
+      <td>2014-12-24<BR>1:51 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>17,100</td>
+      <td>$11.44</td>
+      <td>$195,544</td>
+      <td>6,101,285<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025827.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-22<BR>Purchase</td>
+      <td>2014-12-24<BR>1:50 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>20,635</td>
+      <td>$11.23</td>
+      <td>$231,725</td>
+      <td>11,231,529<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025826.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-19<BR>Purchase</td>
+      <td>2014-12-23<BR>4:42 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>13,400</td>
+      <td>$11.43</td>
+      <td>$153,096</td>
+      <td>6,084,185<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025798.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-19<BR>Purchase</td>
+      <td>2014-12-23<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>42,400</td>
+      <td>$11.21</td>
+      <td>$475,397</td>
+      <td>11,210,894<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025797.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-18<BR>Purchase</td>
+      <td>2014-12-22<BR>4:29 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>224,700</td>
+      <td>$11.43</td>
+      <td>$2,568,366</td>
+      <td>6,070,785<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025582.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-18<BR>Purchase</td>
+      <td>2014-12-22<BR>4:28 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>297,000</td>
+      <td>$11.21</td>
+      <td>$3,329,816</td>
+      <td>11,168,494<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025581.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-17<BR>Purchase</td>
+      <td>2014-12-19<BR>4:38 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>17,900</td>
+      <td>$11.44</td>
+      <td>$204,865</td>
+      <td>5,846,085<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025526.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-17<BR>Purchase</td>
+      <td>2014-12-19<BR>4:37 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>38,100</td>
+      <td>$11.24</td>
+      <td>$428,381</td>
+      <td>10,871,494<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025525.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-16<BR>Purchase</td>
+      <td>2014-12-18<BR>4:37 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>25,900</td>
+      <td>$11.43</td>
+      <td>$296,143</td>
+      <td>5,828,185<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025474.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-16<BR>Purchase</td>
+      <td>2014-12-18<BR>4:36 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>21,700</td>
+      <td>$11.24</td>
+      <td>$243,886</td>
+      <td>10,833,394<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025472.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-15<BR>Purchase</td>
+      <td>2014-12-17<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>18,500</td>
+      <td>$11.46</td>
+      <td>$211,934</td>
+      <td>5,802,285<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025343.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-15<BR>Purchase</td>
+      <td>2014-12-17<BR>4:39 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>114,600</td>
+      <td>$11.25</td>
+      <td>$1,289,708</td>
+      <td>10,811,694<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025342.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-12<BR>Purchase</td>
+      <td>2014-12-16<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>200,000</td>
+      <td>$11.27</td>
+      <td>$2,253,500</td>
+      <td>10,697,094<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025251.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-12<BR>Purchase</td>
+      <td>2014-12-16<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>129,000</td>
+      <td>$11.48</td>
+      <td>$1,480,920</td>
+      <td>5,783,785<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025250.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-11<BR>Purchase</td>
+      <td>2014-12-15<BR>4:36 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>253,200</td>
+      <td>$11.32</td>
+      <td>$2,865,211</td>
+      <td>10,497,094<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-025102.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-11<BR>Purchase</td>
+      <td>2014-12-15<BR>4:35 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>155,500</td>
+      <td>$11.52</td>
+      <td>$1,791,313</td>
+      <td>5,654,785<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-025101.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-10<BR>Purchase</td>
+      <td>2014-12-12<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>204,000</td>
+      <td>$11.53</td>
+      <td>$2,352,140</td>
+      <td>5,499,285<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-024914.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-10<BR>Purchase</td>
+      <td>2014-12-12<BR>4:38 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>300,000</td>
+      <td>$11.38</td>
+      <td>$3,413,880</td>
+      <td>10,243,894<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-024904.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-09<BR>Purchase</td>
+      <td>2014-12-11<BR>4:36 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>82,500</td>
+      <td>$11.38</td>
+      <td>$938,701</td>
+      <td>9,943,894<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-024777.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-09<BR>Purchase</td>
+      <td>2014-12-11<BR>4:35 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>28,000</td>
+      <td>$11.52</td>
+      <td>$322,493</td>
+      <td>5,295,285<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001225208-14-024776.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-08<BR>Purchase</td>
+      <td>2014-12-10<BR>5:41 pm</td>
+      <td><a href="/insider-trading/1254370.htm">Western Asset/claymore Inflation-linked Securities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIA'); return false;">WIA</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>13,500</td>
+      <td>$11.51</td>
+      <td>$155,381</td>
+      <td>5,252,870<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1254370/0001104659-14-085999.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-12-08<BR>Purchase</td>
+      <td>2014-12-10<BR>4:40 pm</td>
+      <td><a href="/insider-trading/1267902.htm">Western Asset/claymore Inflation-linked Opportunities &amp; Income Fund</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('WIW'); return false;">WIW</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>55,400</td>
+      <td>$11.39</td>
+      <td>$630,917</td>
+      <td>9,832,926<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1267902/0001225208-14-024740.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-10-30<BR>Sale</td>
+      <td>2014-11-03<BR>4:39 pm</td>
+      <td><a href="/insider-trading/789019.htm">Microsoft Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('MSFT'); return false;">MSFT</a></td>
+      <td>Gates William H III<BR><span class="pos">Director</span></td>
+      <td>7,500,000</td>
+      <td>$46.34</td>
+      <td>$347,575,152</td>
+      <td>281,192,928<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/789019/0001225208-14-022439.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-10-29<BR>Sale</td>
+      <td>2014-10-31<BR>4:36 pm</td>
+      <td><a href="/insider-trading/789019.htm">Microsoft Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('MSFT'); return false;">MSFT</a></td>
+      <td>Gates William H III<BR><span class="pos">Director</span></td>
+      <td>4,500,000</td>
+      <td>$46.54</td>
+      <td>$209,435,394</td>
+      <td>285,492,928<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/789019/0001225208-14-022316.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-10-28<BR>Sale</td>
+      <td>2014-10-30<BR>4:38 pm</td>
+      <td><a href="/insider-trading/789019.htm">Microsoft Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('MSFT'); return false;">MSFT</a></td>
+      <td>Gates William H III<BR><span class="pos">Director</span></td>
+      <td>3,500,000</td>
+      <td>$46.15</td>
+      <td>$161,511,347</td>
+      <td>289,992,928<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/789019/0001225208-14-022224.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-10-27<BR>Sale</td>
+      <td>2014-10-29<BR>4:38 pm</td>
+      <td><a href="/insider-trading/789019.htm">Microsoft Corp</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('MSFT'); return false;">MSFT</a></td>
+      <td>Gates William H III<BR><span class="pos">Director</span></td>
+      <td>4,500,000</td>
+      <td>$45.92</td>
+      <td>$206,654,394</td>
+      <td>293,492,928<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/789019/0001225208-14-022180.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-29<BR>Purchase</td>
+      <td>2014-10-01<BR>4:39 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>600,000</td>
+      <td>$38.95</td>
+      <td>$23,367,659</td>
+      <td>107,452,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020750.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-26<BR>Purchase</td>
+      <td>2014-09-30<BR>4:38 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>189,987</td>
+      <td>$38.98</td>
+      <td>$7,406,491</td>
+      <td>106,852,520<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020627.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-25<BR>Purchase</td>
+      <td>2014-09-29<BR>4:35 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>197,301</td>
+      <td>$39.05</td>
+      <td>$7,705,038</td>
+      <td>106,662,528<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020563.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-24<BR>Purchase</td>
+      <td>2014-09-26<BR>4:39 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>5,000</td>
+      <td>$39.39</td>
+      <td>$196,950</td>
+      <td>106,465,232<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020491.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-23<BR>Purchase</td>
+      <td>2014-09-25<BR>4:39 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>302,200</td>
+      <td>$39.14</td>
+      <td>$11,829,589</td>
+      <td>106,460,232<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020476.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-22<BR>Purchase</td>
+      <td>2014-09-24<BR>4:38 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>200</td>
+      <td>$39.15</td>
+      <td>$7,830</td>
+      <td>106,158,032<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020408.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-19<BR>Purchase</td>
+      <td>2014-09-23<BR>4:37 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>2,000,919</td>
+      <td>$39.25</td>
+      <td>$78,529,270</td>
+      <td>106,157,832<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020366.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-18<BR>Purchase</td>
+      <td>2014-09-22<BR>4:35 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>6,900</td>
+      <td>$39.25</td>
+      <td>$270,814</td>
+      <td>104,156,912<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020293.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="P">2014-09-17<BR>Purchase</td>
+      <td>2014-09-19<BR>4:35 pm</td>
+      <td><a href="/insider-trading/1060391.htm">Republic Services Inc</a></td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('RSG'); return false;">RSG</a></td>
+      <td><a href="/insider-trading/1052192.htm">Cascade Investment LLC</a><BR>Gates William H III<BR><span class="pos">10% Owner</span></td>
+      <td>1,290,200</td>
+      <td>$39.26</td>
+      <td>$50,651,832</td>
+      <td>104,150,016<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1060391/0001225208-14-020248.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var filing_table = new SortableTable( document.getElementById( "filing_table" ),[ "String", "Time", "String", "String", "String", "Number", "Currency", "Currency", "Number", "None" ] );
+  filing_table.sort( 1, true, "String" );
+</script>
+
+<BR>
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '902012-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '902012-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '902012-3' ); return false;">3</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '902012-1' ); return false;">Next</a></font></div>
+  <div style="clear:both;height:auto;">
+<table id="footer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+  <tr>
+  <td valign="middle">
+    &copy; 2005-2015 <a href="/">SecForm4.Com</a> All rights reserved.<br>
+    Archives:
+    <a href="/archives/2015.htm">2015</a> <a href="/archives/2014.htm">2014</a> <a href="/archives/2013.htm">2013</a> <a href="/archives/2012.htm">2012</a> <a href="/archives/2011.htm">2011</a> <a href="/archives/2010.htm">2010</a> <a href="/archives.htm">...</a> <br>
+    Thu, 09 Jul 2015 14:54:19 -0500
+  </td>
+  <td valign="middle">
+    SEC is the U.S. Securities and Exchange Commission. EDGAR is a trademark of the SEC.<br>
+    SecForm4.Com is not affiliated with or approved by the U.S. Securities and Exchange Commission (SEC).<br>
+    <a rel="nofollow" href="/site/tos.htm">Terms of Use</a> |
+    <a rel="nofollow" href="/site/privacy.htm">Privacy Statement</a> |
+  </td>
+  </tr>
+</tbody>
+</table>
+
+  </div>
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-642623-4");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

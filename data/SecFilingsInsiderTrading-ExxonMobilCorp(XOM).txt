@@ -1,0 +1,959 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head><!--36 100.1.128.241-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>XOM Insider Trading - Exxon Mobil Corp - Form 4 SEC Filings</title>
+<meta name="description" content="Exxon Mobil Corp form 4 sec filings insider trading and stock options: reveal insider stocks held, purchased, sold, and stock options awarded filed with SEC EDGAR database.">
+<meta name="keywords" content="Exxon Mobil Corp,XOM,form 4,SEC,filings,insider,stocks,options,trading,trades,buying,selling,history">
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/array.js"></script>
+
+
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/common.css">
+
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/func.js"></script>
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/sortable.css">
+<script type="text/javascript" src="http://www.secform4.com/rsc/sortabletable.js"></script>
+
+
+</head>
+<body>
+<div class="SecForm4Page" id="SecForm4Page" style="width:980px;">
+<div style="font-size: 16; height:30; background-color:#ddd;">
+
+<div style="float:left; padding:5 0 0 10;">
+<a href="/">Home</a> |
+<a href="/archives.htm">Archives</a> |
+<a href="/insider-trading-reports.htm">Products</a> |
+<a rel="NoFollow" href="/site/about.htm">About</a> |
+<a rel="NoFollow" href="/site/contact.htm">Contact</a> |
+<a rel="NoFollow" href="/site/faq.htm">FAQ</a> |
+
+</div>
+
+<div style="float:right; padding:5 10 0 0;">
+New User?
+<a rel="NoFollow" href="/account/signup">Sign Up</a> | 
+<a rel="NoFollow" href="/account/login">Sign In</a>
+</div>
+
+</div>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="0" id="menubar" class="menubar" style="clear:both;">
+<tbody align="center">
+<tr>
+
+  <td rowspan="2" width="20%">
+    <a href="/"><img border="0" src="/images/logo3.gif" alt="insider trading reports,buying,selling,purchases"></a>
+  </td>
+  <td width="16%">
+    <a title="insider trades" href="/sec-filings.htm">Form 4 Filings</a>
+  </td>
+
+  <td width="16%">
+    <a href="/buying.htm">Insider Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/significant-buys.htm">Significant Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/penny-stocks.htm">Penny Stocks<br>Insider Buying</a>
+  </td>
+
+  <td width="16%">
+    <a href="/selling.htm">Insider Sales</a>
+  </td>
+
+</tr>
+
+<tr>
+
+  <td>
+    <a href="/i-ratios.htm">Insider Buy Sell Ratios</a>
+  </td>
+
+  <td>
+    <a href="/stock-options.htm">Stock Options</a>
+  </td>
+
+  <td>
+    <a href="/stock-screener.htm">Insider Trading<br>Stock Screener</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/edgar-filings.php">Insider Trading<br>Graph View</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/watch.htm">Insider Watch</a>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<div  class="tag" id="tag">
+<big><b>Sec Filings Insider Trading - Exxon Mobil Corp (XOM)</b></big>
+</div>
+
+
+
+<table cellspacing="0" cellpadding="2" border="1" class="itable">
+  <tbody>
+    <tr class="r0">
+      <td style="font-size:12px;width:65%;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;"><Form action="" method="POST">
+Select Time period: <select  name="ChartPeriod">
+  <option value="1">1 Month</option>
+  <option value="2">2 Months</option>
+  <option value="3">3 Months</option>
+  <option value="6">6 Months</option>
+  <option value="12">1 Year</option>
+  <option value="24" selected="selected">2 Years</option>
+  <option value="36">3 Years</option>
+  <option value="48">4 Years</option>
+  <option value="0">All Data</option>
+</select> <input type="submit" value="Go!" >
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_google.gif" alt="google icon">
+<a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=add&amp;title=Insider Trading - Exxon Mobil Corp&amp;bkmk=http://www.secform4.com/insider-trading/34088.htm" target="_blank">
+google
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_yahoo.gif" alt="yahoo icon">
+<a rel="nofollow" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.secform4.com/insider-trading/34088.htm&amp;t=Insider Trading - Exxon Mobil Corp&amp;popup=true" target="_blank">
+yahoo!
+</a>
+
+
+<hr>
+
+<div>
+Send this page to:&nbsp;&nbsp;
+<img style="vertical-align:middle;" src="/images/blogger-logo.gif" alt="blogger icon">
+<a rel="nofollow" href="#F1" onClick="JDialog('/site/showchart?cik=34088&amp;t=24&amp;name=Exxon Mobil Corp','_showchart','width=700,height=520,menubar=0,resizable=1,titlebar=0,scrollbars=1'); return false;">Blog</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/digg.gif" alt="digg icon">
+<a rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http://www.secform4.com/insider-trading/34088.htm&amp;title=Insider Trading - Exxon Mobil Corp" target="_blank">
+Digg
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/reddit.gif" alt="reddit icon">
+<a rel="nofollow" href="http://reddit.com/submit?url=http://www.secform4.com/insider-trading/34088.htm&amp;title=Insider Trading - Exxon Mobil Corp" target="_blank">
+Reddit
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/facebook.gif" alt="facebook icon">
+<a rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.secform4.com/insider-trading/34088.htm" class="fb_share_button" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.secform4.com/insider-trading/34088.htm&amp;t=Insider Trading - Exxon Mobil Corp','sharer','toolbar=0,status=0,width=626,height=436');return false;" target="_blank">
+Facebook
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/stumble.gif" alt="stumble icon">
+<a rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://www.secform4.com/insider-trading/34088.htm&amp;title=Insider Trading - Exxon Mobil Corp" target="_blank">
+Stumble
+</a>
+&nbsp;&nbsp;
+<!--
+<img style="vertical-align:middle;" src="/images/fark.gif" alt="fark icon">
+<a rel="nofollow" href="http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.secform4.com/insider-trading/34088.htm&amp;h=Insider Trading - Exxon Mobil Corp" target="_blank">
+Fark
+</a>
+&nbsp;
+-->
+<img style="vertical-align:middle;" src="/images/delicious.gif" alt="delicious icon">
+<a rel="nofollow" href="http://del.icio.us/post?url=http://www.secform4.com/insider-trading/34088.htm&amp;title=Insider Trading - Exxon Mobil Corp" target="_blank">
+del.icio.us
+</a>
+
+</div>
+
+<input type="hidden" name="_id1" value="1436471666" style="width:auto">
+<input type="hidden" name="_id2" value="f0c26227c1466ee4109ca4e157c23b3e" style="width:auto">
+</Form>
+<hr style="margin-bottom:0">
+
+<form action="/insider/showhistory.php" name="cikform" id="cikform" method="GET" OnSubmit="return ValidateCik( cik.value );">
+<div>
+Enter Stock Ticker Symbol or Cik:
+<input size="20" name="cik" style="background-color:pink;">
+<input value="Search!" type="submit">
+<img src="/images/lookup.gif" alt="SEC Cik Lookup">
+<strong>
+<a href="#cik" onClick="cikDialog(); return false;">Cik Lookup...</a>
+</strong>
+</div>
+</form>
+
+<hr style="margin-bottom:0">
+
+<form style="padding:0; margin:0;" method="get" action="http://www.google.com/search">
+<div style="font-size:12px">
+Search By Company or Insider Name:
+<input type="hidden" name="as_sitesearch" value="secform4.com/insider-trading">
+<input style="background-color:pink;" size="30" type="text" value="" name="as_q" id="as_q">
+<input type="submit" value="Search!">
+<img style="vertical-align:middle;" src="/images/powered_by_google.gif" alt="Powered by Google button">
+</div>
+</form>
+
+</td>
+      <td style="font-size:12px;padding-left:10px;padding-right:10px">"Insiders might sell their shares for any number of reasons, but they buy them for only one:
+they think the price will rise"<br>
+- Peter Lynch ==&gt;&gt;
+<!--
+<a href="#" OnClick="gotoTraining( 'what-is-insider-trading' ); return false;">What is insider trading&gt;&gt;</a>
+-->
+<a href="/training/what-is-insider-trading.htm">What is insider trading&gt;&gt;</a>
+
+<hr>
+<div>
+<img src="/images/email.gif" height="12" width="13" alt="Email about Insider Trading">
+<a href="mailto:?subject=XOM%20Insider%20Trading%20-%20Exxon%20Mobil%20Corp%20-%20Form%204%20SEC%20Filings&amp;body=Check%20out%20these%20insider%20trading%20filings:%0D%0Ahttp://www.secform4.com/insider-trading/34088.htm"><b>Email a friend &gt;&gt;...</b></a>
+</div>
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<div class="chart"><img src="/ichart-34088-960-180-24.png" height="180" width="960" alt="XOM Insider Trading Transactions for Exxon Mobil Corp"></div>
+
+<div style="background: #FFE6E6; padding: 5px; border:1px red solid;font-size:16px;font-weight:bold;margin:10px;" align="center">
+Historical filings delayed by 6 months. New user?
+<a rel="nofollow" href="/account/signup">Sign Up</a> for real time data.
+Existing user?
+<a rel="nofollow" href="/account/login">Sign In</a>
+</div>
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '34088-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '34088-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '34088-3' ); return false;">3</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '34088-1' ); return false;">Next</a></font></div>
+<BR><div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Common stock purchase or sale:</div>
+<table border="1" cellspacing="0" class="sort-table" id="filing_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Company</td>
+      <td>Symbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Average<BR>Price</td>
+      <td>Total<BR>Amount</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="S">2014-12-19<BR>Sale</td>
+      <td>2014-12-19<BR>4:15 pm</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1613651.htm">Wascom Dennis G</a><BR><span class="pos">Vice President</span></td>
+      <td>4,000</td>
+      <td>$92</td>
+      <td>$368,000</td>
+      <td>146,155<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-18<BR>Sale</td>
+      <td>2014-12-19<BR>11:32 am</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1613651.htm">Wascom Dennis G</a><BR><span class="pos">Vice President</span></td>
+      <td>6,000</td>
+      <td>$90.42</td>
+      <td>$542,520</td>
+      <td>148,155<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035682.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-17<BR>Sale</td>
+      <td>2014-12-18<BR>5:05 pm</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1484306.htm">Spellings James M Jr</a><BR><span class="pos">Vice Pres. &amp; Gen. Tax Counsel</span></td>
+      <td>4,642</td>
+      <td>$89.37</td>
+      <td>$414,852</td>
+      <td>167,400<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035658.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-05<BR>Sale</td>
+      <td>2014-12-08<BR>4:33 pm</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1445705.htm">Rosenthal David S</a><BR><span class="pos">Vice President and Controller</span></td>
+      <td>4,266</td>
+      <td>$94</td>
+      <td>$401,004</td>
+      <td>144,400<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034473.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-03<BR>Sale</td>
+      <td>2014-12-05<BR>11:18 am</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1519092.htm">Schleckser Robert N</a><BR><span class="pos">Vice President and Treasurer</span></td>
+      <td>2,500</td>
+      <td>$94.62</td>
+      <td>$236,559</td>
+      <td>121,421<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034267.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-02<BR>Sale</td>
+      <td>2014-12-04<BR>3:28 pm</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1418020.htm">Kelly Alan J</a><BR><span class="pos">Vice President</span></td>
+      <td>5,500</td>
+      <td>$94.27</td>
+      <td>$518,500</td>
+      <td>228,109<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034204.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var filing_table = new SortableTable( document.getElementById( "filing_table" ),[ "String", "Time", "String", "String", "String", "Number", "Currency", "Currency", "Number", "None" ] );
+  filing_table.sort( 1, true, "String" );
+</script>
+
+<BR><div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Stock options: Exercise, Award, Grant, Conversion</div>
+<table border="1" cellspacing="0" class="sort-table" id="option_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Exercisable<BR>Expiration</td>
+      <td>Company</td>
+      <td>Symnbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Conversion<BR>Price</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>11:47 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1189019.htm">Weldon William C</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>14,042<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001110.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>11:42 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1183822.htm">Reinemund Steven</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>38,125<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001107.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>11:36 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1180618.htm">Palmisano Samuel J</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>32,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001105.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>11:29 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1145149.htm">George William W</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>36,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001097.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:56 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1181175.htm">Frazier Kenneth C</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>23,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001090.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:46 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1503774.htm">Fore Henrietta</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>40,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001087.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:40 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1201696.htm">Fishman Jay S</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>20,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001082.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:34 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1334362.htm">Faulkner Larry R</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>25,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001077.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:20 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1190699.htm">Burns Ursula M</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>15,706<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001071.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:11 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1216079.htm">Brabeck Letmathe Peter</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>20,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001069.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2015-01-02<BR>Option Award</td>
+      <td>2015-01-06<BR>10:03 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1120621.htm">Boskin Michael J</a><BR><span class="pos">Director</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>64,300<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-15-001066.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-29<BR>Gift</td>
+      <td>2014-12-30<BR>5:01 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1198805.htm">Tillerson Rex W</a><BR><span class="pos">Chairman and President<BR>Director</span></td>
+      <td>265</td>
+      <td>$0</td>
+      <td>2,288,874<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-036129.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-18<BR>Gift</td>
+      <td>2014-12-19<BR>12:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1445705.htm">Rosenthal David S</a><BR><span class="pos">Vice President and Controller</span></td>
+      <td>100</td>
+      <td>$0</td>
+      <td>144,400<BR><span class="ownership">(Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035688.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-18<BR>Gift</td>
+      <td>2014-12-19<BR>11:18 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1395482.htm">Duffin Neil W</a><BR><span class="pos">Executive Officer</span></td>
+      <td>2,235</td>
+      <td>$0</td>
+      <td>383,133<BR><span class="ownership">(Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035677.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-15<BR>Gift</td>
+      <td>2014-12-17<BR>11:06 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>50</td>
+      <td>$0</td>
+      <td>152,720<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035338.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-12<BR>Gift</td>
+      <td>2014-12-16<BR>10:12 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1310442.htm">Pryor Stephen D</a><BR><span class="pos">Vice President</span></td>
+      <td>11,238</td>
+      <td>$0</td>
+      <td>1,043,569<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-12<BR>Gift</td>
+      <td>2014-12-16<BR>10:12 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1310442.htm">Pryor Stephen D</a><BR><span class="pos">Vice President</span></td>
+      <td>6,362</td>
+      <td>$0</td>
+      <td>1,043,569<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-035174.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-09<BR>Gift</td>
+      <td>2014-12-11<BR>2:45 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1499520.htm">Greenlee Stephen M</a><BR><span class="pos">Vice President</span></td>
+      <td>383</td>
+      <td>$0</td>
+      <td>267,786<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034832.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-09<BR>Gift</td>
+      <td>2014-12-11<BR>2:45 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1499520.htm">Greenlee Stephen M</a><BR><span class="pos">Vice President</span></td>
+      <td>2,368</td>
+      <td>$0</td>
+      <td>267,786<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034832.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-04<BR>Tax Withholding</td>
+      <td>2014-12-08<BR>10:28 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1555145.htm">Woods Darren W</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>5,202</td>
+      <td>$91.29</td>
+      <td>165,649<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034380.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-04<BR>Tax Withholding</td>
+      <td>2014-12-08<BR>10:22 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1613651.htm">Wascom Dennis G</a><BR><span class="pos">Vice President</span></td>
+      <td>5,915</td>
+      <td>$91.29</td>
+      <td>154,155<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034377.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-04<BR>Tax Withholding</td>
+      <td>2014-12-08<BR>10:16 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1570876.htm">Cousins Michael G</a><BR><span class="pos">Vice President</span></td>
+      <td>2,695</td>
+      <td>$91.29</td>
+      <td>89,298<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034375.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-04<BR>Tax Withholding</td>
+      <td>2014-12-08<BR>10:11 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>3,042</td>
+      <td>$91.29</td>
+      <td>152,770<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034370.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>11:53 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1555145.htm">Woods Darren W</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>2,308</td>
+      <td>$90.98</td>
+      <td>170,851<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034044.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>11:46 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1617097.htm">Woodbury Jeffrey J</a><BR><span class="pos">Vice President and Secretary</span></td>
+      <td>3,464</td>
+      <td>$90.98</td>
+      <td>200,280<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034041.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>11:32 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1495010.htm">Williams Jack P Jr</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>1,954</td>
+      <td>$90.98</td>
+      <td>173,991<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-01<BR>Gift</td>
+      <td>2014-12-03<BR>11:32 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1495010.htm">Williams Jack P Jr</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>375</td>
+      <td>$0</td>
+      <td>173,991<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-01<BR>Gift</td>
+      <td>2014-12-03<BR>11:32 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1495010.htm">Williams Jack P Jr</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>108</td>
+      <td>$0</td>
+      <td>173,991<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-01<BR>Gift</td>
+      <td>2014-12-03<BR>11:32 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1495010.htm">Williams Jack P Jr</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>108</td>
+      <td>$0</td>
+      <td>173,991<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-01<BR>Gift</td>
+      <td>2014-12-03<BR>11:32 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1495010.htm">Williams Jack P Jr</a><BR><span class="pos">Senior Vice President</span></td>
+      <td>108</td>
+      <td>$0</td>
+      <td>173,991<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>11:22 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1613651.htm">Wascom Dennis G</a><BR><span class="pos">Vice President</span></td>
+      <td>4,130</td>
+      <td>$90.98</td>
+      <td>160,070<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034033.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>11:05 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1484306.htm">Spellings James M Jr</a><BR><span class="pos">Vice Pres. &amp; Gen. Tax Counsel</span></td>
+      <td>2,708</td>
+      <td>$90.98</td>
+      <td>172,042<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034031.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:58 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1519092.htm">Schleckser Robert N</a><BR><span class="pos">Vice President and Treasurer</span></td>
+      <td>1,505</td>
+      <td>$90.98</td>
+      <td>123,671<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034029.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-12-01<BR>Gift</td>
+      <td>2014-12-03<BR>10:58 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1519092.htm">Schleckser Robert N</a><BR><span class="pos">Vice President and Treasurer</span></td>
+      <td>250</td>
+      <td>$0</td>
+      <td>123,671<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034029.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:50 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1445705.htm">Rosenthal David S</a><BR><span class="pos">Vice President and Controller</span></td>
+      <td>3,084</td>
+      <td>$90.98</td>
+      <td>148,666<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034027.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:42 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1499520.htm">Greenlee Stephen M</a><BR><span class="pos">Vice President</span></td>
+      <td>2,308</td>
+      <td>$90.98</td>
+      <td>268,169<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034025.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:23 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1462692.htm">Franklin Robert Stuart</a><BR><span class="pos">Vice President</span></td>
+      <td>4,536</td>
+      <td>$90.98</td>
+      <td>199,033<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034020.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:15 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1570876.htm">Cousins Michael G</a><BR><span class="pos">Vice President</span></td>
+      <td>1,617</td>
+      <td>$90.98</td>
+      <td>91,993<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034015.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>10:07 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1455273.htm">Colton William M</a><BR><span class="pos">Vice President</span></td>
+      <td>4,049</td>
+      <td>$90.98</td>
+      <td>198,662<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034012.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="F">2014-12-01<BR>Tax Withholding</td>
+      <td>2014-12-03<BR>09:58 am</td>
+      <td>N/A<BR>N/A</td>
+      <td>Exxon Mobil Corp</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('XOM'); return false;">XOM</a></td>
+      <td><a href="/insider-trading/1577623.htm">Cleveland Randy J</a><BR><span class="pos">Executive Officer</span></td>
+      <td>1,505</td>
+      <td>$90.98</td>
+      <td>155,812<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/34088/0001127602-14-034009.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var option_table = new SortableTable( document.getElementById( "option_table" ),[ "String", "String", "String", "String", "String", "String", "Number", "Currency", "Number", "None" ] );
+  option_table.sort( 1, true, "String" );
+</script>
+
+
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '34088-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '34088-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '34088-3' ); return false;">3</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '34088-1' ); return false;">Next</a></font></div>
+  <div style="clear:both;height:auto;">
+<table id="footer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+  <tr>
+  <td valign="middle">
+    &copy; 2005-2015 <a href="/">SecForm4.Com</a> All rights reserved.<br>
+    Archives:
+    <a href="/archives/2015.htm">2015</a> <a href="/archives/2014.htm">2014</a> <a href="/archives/2013.htm">2013</a> <a href="/archives/2012.htm">2012</a> <a href="/archives/2011.htm">2011</a> <a href="/archives/2010.htm">2010</a> <a href="/archives.htm">...</a> <br>
+    Thu, 09 Jul 2015 14:54:26 -0500
+  </td>
+  <td valign="middle">
+    SEC is the U.S. Securities and Exchange Commission. EDGAR is a trademark of the SEC.<br>
+    SecForm4.Com is not affiliated with or approved by the U.S. Securities and Exchange Commission (SEC).<br>
+    <a rel="nofollow" href="/site/tos.htm">Terms of Use</a> |
+    <a rel="nofollow" href="/site/privacy.htm">Privacy Statement</a> |
+  </td>
+  </tr>
+</tbody>
+</table>
+
+  </div>
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-642623-4");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1862 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head><!--36 100.1.128.241-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>ZNGA Insider Trading - Zynga Inc - Form 4 SEC Filings</title>
+<meta name="description" content="Zynga Inc form 4 sec filings insider trading and stock options: reveal insider stocks held, purchased, sold, and stock options awarded filed with SEC EDGAR database.">
+<meta name="keywords" content="Zynga Inc,ZNGA,form 4,SEC,filings,insider,stocks,options,trading,trades,buying,selling,history">
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/array.js"></script>
+
+
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/common.css">
+
+
+<script type="text/javascript" src="http://www.secform4.com/rsc/func.js"></script>
+
+<link type="text/css" rel="StyleSheet" href="http://www.secform4.com/rsc/sortable.css">
+<script type="text/javascript" src="http://www.secform4.com/rsc/sortabletable.js"></script>
+
+
+</head>
+<body>
+<div class="SecForm4Page" id="SecForm4Page" style="width:980px;">
+<div style="font-size: 16; height:30; background-color:#ddd;">
+
+<div style="float:left; padding:5 0 0 10;">
+<a href="/">Home</a> |
+<a href="/archives.htm">Archives</a> |
+<a href="/insider-trading-reports.htm">Products</a> |
+<a rel="NoFollow" href="/site/about.htm">About</a> |
+<a rel="NoFollow" href="/site/contact.htm">Contact</a> |
+<a rel="NoFollow" href="/site/faq.htm">FAQ</a> |
+
+</div>
+
+<div style="float:right; padding:5 10 0 0;">
+New User?
+<a rel="NoFollow" href="/account/signup">Sign Up</a> | 
+<a rel="NoFollow" href="/account/login">Sign In</a>
+</div>
+
+</div>
+
+<table border="1" width="100%" cellspacing="0" cellpadding="0" id="menubar" class="menubar" style="clear:both;">
+<tbody align="center">
+<tr>
+
+  <td rowspan="2" width="20%">
+    <a href="/"><img border="0" src="/images/logo3.gif" alt="insider trading reports,buying,selling,purchases"></a>
+  </td>
+  <td width="16%">
+    <a title="insider trades" href="/sec-filings.htm">Form 4 Filings</a>
+  </td>
+
+  <td width="16%">
+    <a href="/buying.htm">Insider Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/significant-buys.htm">Significant Buys</a>
+  </td>
+
+  <td width="16%">
+    <a href="/penny-stocks.htm">Penny Stocks<br>Insider Buying</a>
+  </td>
+
+  <td width="16%">
+    <a href="/selling.htm">Insider Sales</a>
+  </td>
+
+</tr>
+
+<tr>
+
+  <td>
+    <a href="/i-ratios.htm">Insider Buy Sell Ratios</a>
+  </td>
+
+  <td>
+    <a href="/stock-options.htm">Stock Options</a>
+  </td>
+
+  <td>
+    <a href="/stock-screener.htm">Insider Trading<br>Stock Screener</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/edgar-filings.php">Insider Trading<br>Graph View</a>
+  </td>
+
+  <td>
+    <a rel="nofollow" href="/watch.htm">Insider Watch</a>
+  </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<div  class="tag" id="tag">
+<big><b>Sec Filings Insider Trading - Zynga Inc (ZNGA)</b></big>
+</div>
+
+
+
+<table cellspacing="0" cellpadding="2" border="1" class="itable">
+  <tbody>
+    <tr class="r0">
+      <td style="font-size:12px;width:65%;padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:10px;"><Form action="" method="POST">
+Select Time period: <select  name="ChartPeriod">
+  <option value="1">1 Month</option>
+  <option value="2">2 Months</option>
+  <option value="3">3 Months</option>
+  <option value="6">6 Months</option>
+  <option value="12">1 Year</option>
+  <option value="24" selected="selected">2 Years</option>
+  <option value="36">3 Years</option>
+  <option value="48">4 Years</option>
+  <option value="0">All Data</option>
+</select> <input type="submit" value="Go!" >
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_google.gif" alt="google icon">
+<a rel="nofollow" href="http://www.google.com/bookmarks/mark?op=add&amp;title=Insider Trading - Zynga Inc&amp;bkmk=http://www.secform4.com/insider-trading/1439404.htm" target="_blank">
+google
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/icons_yahoo.gif" alt="yahoo icon">
+<a rel="nofollow" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.secform4.com/insider-trading/1439404.htm&amp;t=Insider Trading - Zynga Inc&amp;popup=true" target="_blank">
+yahoo!
+</a>
+
+
+<hr>
+
+<div>
+Send this page to:&nbsp;&nbsp;
+<img style="vertical-align:middle;" src="/images/blogger-logo.gif" alt="blogger icon">
+<a rel="nofollow" href="#F1" onClick="JDialog('/site/showchart?cik=1439404&amp;t=24&amp;name=Zynga Inc','_showchart','width=700,height=520,menubar=0,resizable=1,titlebar=0,scrollbars=1'); return false;">Blog</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/digg.gif" alt="digg icon">
+<a rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http://www.secform4.com/insider-trading/1439404.htm&amp;title=Insider Trading - Zynga Inc" target="_blank">
+Digg
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/reddit.gif" alt="reddit icon">
+<a rel="nofollow" href="http://reddit.com/submit?url=http://www.secform4.com/insider-trading/1439404.htm&amp;title=Insider Trading - Zynga Inc" target="_blank">
+Reddit
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/facebook.gif" alt="facebook icon">
+<a rel="nofollow" href="http://www.facebook.com/share.php?u=http://www.secform4.com/insider-trading/1439404.htm" class="fb_share_button" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.secform4.com/insider-trading/1439404.htm&amp;t=Insider Trading - Zynga Inc','sharer','toolbar=0,status=0,width=626,height=436');return false;" target="_blank">
+Facebook
+</a>
+&nbsp;&nbsp;
+
+<img style="vertical-align:middle;" src="/images/stumble.gif" alt="stumble icon">
+<a rel="nofollow" href="http://www.stumbleupon.com/submit?url=http://www.secform4.com/insider-trading/1439404.htm&amp;title=Insider Trading - Zynga Inc" target="_blank">
+Stumble
+</a>
+&nbsp;&nbsp;
+<!--
+<img style="vertical-align:middle;" src="/images/fark.gif" alt="fark icon">
+<a rel="nofollow" href="http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.secform4.com/insider-trading/1439404.htm&amp;h=Insider Trading - Zynga Inc" target="_blank">
+Fark
+</a>
+&nbsp;
+-->
+<img style="vertical-align:middle;" src="/images/delicious.gif" alt="delicious icon">
+<a rel="nofollow" href="http://del.icio.us/post?url=http://www.secform4.com/insider-trading/1439404.htm&amp;title=Insider Trading - Zynga Inc" target="_blank">
+del.icio.us
+</a>
+
+</div>
+
+<input type="hidden" name="_id1" value="1436471664" style="width:auto">
+<input type="hidden" name="_id2" value="3a1901fd6d0566569026c7268243173d" style="width:auto">
+</Form>
+<hr style="margin-bottom:0">
+
+<form action="/insider/showhistory.php" name="cikform" id="cikform" method="GET" OnSubmit="return ValidateCik( cik.value );">
+<div>
+Enter Stock Ticker Symbol or Cik:
+<input size="20" name="cik" style="background-color:pink;">
+<input value="Search!" type="submit">
+<img src="/images/lookup.gif" alt="SEC Cik Lookup">
+<strong>
+<a href="#cik" onClick="cikDialog(); return false;">Cik Lookup...</a>
+</strong>
+</div>
+</form>
+
+<hr style="margin-bottom:0">
+
+<form style="padding:0; margin:0;" method="get" action="http://www.google.com/search">
+<div style="font-size:12px">
+Search By Company or Insider Name:
+<input type="hidden" name="as_sitesearch" value="secform4.com/insider-trading">
+<input style="background-color:pink;" size="30" type="text" value="" name="as_q" id="as_q">
+<input type="submit" value="Search!">
+<img style="vertical-align:middle;" src="/images/powered_by_google.gif" alt="Powered by Google button">
+</div>
+</form>
+
+</td>
+      <td style="font-size:12px;padding-left:10px;padding-right:10px">"Insiders might sell their shares for any number of reasons, but they buy them for only one:
+they think the price will rise"<br>
+- Peter Lynch ==&gt;&gt;
+<!--
+<a href="#" OnClick="gotoTraining( 'what-is-insider-trading' ); return false;">What is insider trading&gt;&gt;</a>
+-->
+<a href="/training/what-is-insider-trading.htm">What is insider trading&gt;&gt;</a>
+
+<hr>
+<div>
+<img src="/images/email.gif" height="12" width="13" alt="Email about Insider Trading">
+<a href="mailto:?subject=ZNGA%20Insider%20Trading%20-%20Zynga%20Inc%20-%20Form%204%20SEC%20Filings&amp;body=Check%20out%20these%20insider%20trading%20filings:%0D%0Ahttp://www.secform4.com/insider-trading/1439404.htm"><b>Email a friend &gt;&gt;...</b></a>
+</div>
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<div class="chart"><img src="/ichart-1439404-960-180-24.png" height="180" width="960" alt="ZNGA Insider Trading Transactions for Zynga Inc"></div>
+
+<div style="background: #FFE6E6; padding: 5px; border:1px red solid;font-size:16px;font-weight:bold;margin:10px;" align="center">
+Historical filings delayed by 6 months. New user?
+<a rel="nofollow" href="/account/signup">Sign Up</a> for real time data.
+Existing user?
+<a rel="nofollow" href="/account/login">Sign In</a>
+</div>
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '1439404-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '1439404-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '1439404-3' ); return false;">3</a>,
+<a href="#P4" rel="nofollow" OnClick="cikRecord( '1439404-4' ); return false;">4</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '1439404-1' ); return false;">Next</a></font></div>
+<BR><div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Common stock purchase or sale:</div>
+<table border="1" cellspacing="0" class="sort-table" id="filing_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Company</td>
+      <td>Symbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Average<BR>Price</td>
+      <td>Total<BR>Amount</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="S">2014-12-15<BR>Sale</td>
+      <td>2014-12-17<BR>5:30 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>10,177</td>
+      <td>$2.405</td>
+      <td>$24,472</td>
+      <td>178,561<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-076381.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-12-11<BR>Sale</td>
+      <td>2014-12-15<BR>7:24 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>10,000</td>
+      <td>$2.512</td>
+      <td>$25,118</td>
+      <td>352,003<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075532.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-11-15<BR>Sale</td>
+      <td>2014-11-19<BR>5:01 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1590494.htm">Downie Clive</a><BR><span class="pos">Chief Operating Officer</span></td>
+      <td>54,235</td>
+      <td>$2.67</td>
+      <td>$144,807</td>
+      <td>412,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070041.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-11-15<BR>Sale</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>5,955</td>
+      <td>$2.67</td>
+      <td>$15,900</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-11-17<BR>Sale</td>
+      <td>2014-11-19<BR>4:53 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>10,000</td>
+      <td>$2.75</td>
+      <td>$27,500</td>
+      <td>362,003<BR><span class="ownership">(Direct<BR>Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070030.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-11-11<BR>Sale</td>
+      <td>2014-11-13<BR>6:53 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>10,000</td>
+      <td>$2.633</td>
+      <td>$26,334</td>
+      <td>372,003<BR><span class="ownership">(Direct<BR>Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-068637.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-10-15<BR>Sale</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>2,925</td>
+      <td>$2.33</td>
+      <td>$6,815</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-09-15<BR>Sale</td>
+      <td>2014-09-16<BR>5:37 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>480</td>
+      <td>$2.914</td>
+      <td>$1,399</td>
+      <td>138,858<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058217.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-08-18<BR>Sale<a href="#A"><sup><font color="purple">(A)</font></sup></a></td>
+      <td>2014-09-15<BR>9:35 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>500,000</td>
+      <td>$3.014</td>
+      <td>$1,506,775</td>
+      <td>15,217,880<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058018.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-08-18<BR>Sale</td>
+      <td>2014-08-20<BR>6:40 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>500,000</td>
+      <td>$3.014</td>
+      <td>$1,506,775</td>
+      <td>15,217,880<BR><span class="ownership">(Indirect<BR>Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-08-15<BR>Sale</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>8,286</td>
+      <td>$3.013</td>
+      <td>$24,966</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-08-02<BR>Sale</td>
+      <td>2014-08-05<BR>6:31 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>2,370</td>
+      <td>$2.86</td>
+      <td>$6,778</td>
+      <td>125,764<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-050712.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-07-15<BR>Sale</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>2,973</td>
+      <td>$3.09</td>
+      <td>$9,187</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-07-08<BR>Sale</td>
+      <td>2014-07-09<BR>6:23 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1193852.htm">Mattrick Donald A.</a><BR><span class="pos">Chief Executive Officer<BR>Director</span></td>
+      <td>2,145,315</td>
+      <td>$3.02</td>
+      <td>$6,478,851</td>
+      <td>4,882,143<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-046585.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-06-15<BR>Sale</td>
+      <td>2014-06-17<BR>5:21 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>485</td>
+      <td>$3.093</td>
+      <td>$1,500</td>
+      <td>115,160<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-042076.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="S">2014-05-15<BR>Sale</td>
+      <td>2014-05-19<BR>7:30 pm</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg(); "class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>1,666</td>
+      <td>$3.5</td>
+      <td>$5,831</td>
+      <td>76,253<BR><span class="ownership">(Direct<BR>Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-035314.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var filing_table = new SortableTable( document.getElementById( "filing_table" ),[ "String", "Time", "String", "String", "String", "Number", "Currency", "Currency", "Number", "None" ] );
+  filing_table.sort( 1, true, "String" );
+</script>
+
+<div align="left" style="padding-bottom:15px; padding-left:5px;"> <font style="color: purple; font-size:11px;">(A) Indicate amendment filing.<br>
+</font> </div><BR><div align="left" style="color: rgb(0, 0, 153); font-weight: bold; font-size: 14;">Stock options: Exercise, Award, Grant, Conversion</div>
+<table border="1" cellspacing="0" class="sort-table" id="option_table" style="width:100%">
+  <thead class="transactionHead">
+    <tr>
+      <td>Transaction<BR>Date</td>
+      <td>Reported<BR>Date</td>
+      <td>Exercisable<BR>Expiration</td>
+      <td>Company</td>
+      <td>Symnbol</td>
+      <td>Insider<BR>Relationship</td>
+      <td>Shares<BR>Traded</td>
+      <td>Conversion<BR>Price</td>
+      <td>Shares<BR>Owned</td>
+      <td>Filing</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="M">2014-12-15<BR>Exercise</td>
+      <td>2014-12-17<BR>5:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>26,250</td>
+      <td>$0</td>
+      <td>178,561<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-076381.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-15<BR>Exercise</td>
+      <td>2014-12-17<BR>5:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>178,561<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-076381.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-15<BR>Exercise</td>
+      <td>2014-12-17<BR>5:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>25,000</td>
+      <td>$0</td>
+      <td>178,561<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-076381.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:24 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>352,003<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075532.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:24 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>352,003<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075532.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:23 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>20,764</td>
+      <td>$0</td>
+      <td>82,358<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075531.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:23 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>82,358<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075531.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:23 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>20,764</td>
+      <td>$0</td>
+      <td>82,358<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075531.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:23 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>82,358<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075531.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:22 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>162,597<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075530.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:22 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>162,597<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075530.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:19 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>23,585</td>
+      <td>$0</td>
+      <td>221,782<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075529.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:19 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>23,585</td>
+      <td>$0</td>
+      <td>221,782<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075529.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>39,308</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075526.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>39,308</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075526.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:11 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1593861.htm">Dugan Regina E</a><BR><span class="pos">Director</span></td>
+      <td>19,034</td>
+      <td>$0</td>
+      <td>38,068<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075524.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:11 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1593861.htm">Dugan Regina E</a><BR><span class="pos">Director</span></td>
+      <td>19,034</td>
+      <td>$0</td>
+      <td>38,068<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075524.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075522.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-12-11<BR>Exercise</td>
+      <td>2014-12-15<BR>7:08 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-075522.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>5:01 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1590494.htm">Downie Clive</a><BR><span class="pos">Chief Operating Officer</span></td>
+      <td>137,500</td>
+      <td>$0</td>
+      <td>412,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070041.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>5:01 pm</td>
+      <td>N/A<BR>2020-11-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1590494.htm">Downie Clive</a><BR><span class="pos">Chief Operating Officer</span></td>
+      <td>137,500</td>
+      <td>$0</td>
+      <td>412,500<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070041.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>9,375</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>3,125</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>2020-02-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>9,375</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>2020-04-14</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>3,125</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-11-15<BR>Exercise</td>
+      <td>2014-11-19<BR>4:57 pm</td>
+      <td>N/A<BR>2020-11-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>2,500</td>
+      <td>$0</td>
+      <td>153,311<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-070035.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-10-15<BR>Conversion</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-10-15<BR>Conversion</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>313</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>2018-03-30</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-10-15<BR>Conversion</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>2018-08-18</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>313</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>313</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-10-15<BR>Conversion</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>313</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-10-15<BR>Exercise</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>2019-06-08</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-10-15<BR>Option Award</td>
+      <td>2014-10-17<BR>6:53 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>300,000</td>
+      <td>$0</td>
+      <td>300,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063900.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-10-15<BR>Option Award</td>
+      <td>2014-10-17<BR>6:47 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1605182.htm">Lee David J.</a><BR><span class="pos">CFO and CAO</span></td>
+      <td>400,000</td>
+      <td>$0</td>
+      <td>400,000<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-063893.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-15<BR>Conversion</td>
+      <td>2014-09-16<BR>5:37 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>138,858<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058217.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-15<BR>Exercise</td>
+      <td>2014-09-16<BR>5:37 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>138,858<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058217.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>300,036<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058025.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>300,036<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058025.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:39 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>20,764</td>
+      <td>$0</td>
+      <td>78,616<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058024.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:39 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>78,616<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058024.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:39 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>20,764</td>
+      <td>$0</td>
+      <td>78,616<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058024.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-09-11<BR>Option Award</td>
+      <td>2014-09-15<BR>9:39 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>78,616</td>
+      <td>$0</td>
+      <td>78,616<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058024.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:39 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>78,616<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058024.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:38 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>142,943<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058023.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:38 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>142,943<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058023.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:37 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>23,584</td>
+      <td>$0</td>
+      <td>198,197<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058022.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:37 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>23,584</td>
+      <td>$0</td>
+      <td>198,197<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058022.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:36 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>23,584</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058021.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:36 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>23,584</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058021.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:34 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1593861.htm">Dugan Regina E</a><BR><span class="pos">Director</span></td>
+      <td>19,034</td>
+      <td>$0</td>
+      <td>57,101<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058017.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:34 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1593861.htm">Dugan Regina E</a><BR><span class="pos">Director</span></td>
+      <td>19,034</td>
+      <td>$0</td>
+      <td>57,101<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058017.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-09-11<BR>Conversion</td>
+      <td>2014-09-15<BR>9:33 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058015.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-09-11<BR>Exercise</td>
+      <td>2014-09-15<BR>9:33 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>19,654</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-058015.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-18<BR>Conversion</td>
+      <td>2014-08-20<BR>6:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>253,971</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-18<BR>Conversion</td>
+      <td>2014-08-20<BR>6:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>125,000</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-18<BR>Conversion</td>
+      <td>2014-08-20<BR>6:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>253,971</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-18<BR>Conversion</td>
+      <td>2014-08-20<BR>6:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>125,000</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053721.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>9,375</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>3,125</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>10,000</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>2020-02-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>9,375</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>2020-04-14</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>3,125</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-15<BR>Exercise</td>
+      <td>2014-08-19<BR>5:40 pm</td>
+      <td>N/A<BR>2020-11-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>10,000</td>
+      <td>$0</td>
+      <td>141,293<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-053458.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-08-05<BR>Gift</td>
+      <td>2014-08-07<BR>7:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>382,003<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-051264.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="G">2014-08-05<BR>Gift</td>
+      <td>2014-08-07<BR>7:14 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>382,003<BR><span class="ownership">(Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-051264.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-02<BR>Conversion</td>
+      <td>2014-08-05<BR>6:31 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>125,764<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-050712.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-02<BR>Exercise</td>
+      <td>2014-08-05<BR>6:31 pm</td>
+      <td>N/A<BR>2017-11-12</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>125,764<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-050712.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-08-02<BR>Exercise</td>
+      <td>2014-08-05<BR>6:31 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>125,764<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-050712.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-08-02<BR>Conversion</td>
+      <td>2014-08-05<BR>6:31 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>125,764<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-050712.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-07-15<BR>Conversion</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-07-15<BR>Conversion</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>312</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>2018-03-30</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-07-15<BR>Conversion</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>2018-08-18</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>312</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>312</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-07-15<BR>Conversion</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>312</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-15<BR>Exercise</td>
+      <td>2014-07-17<BR>5:50 pm</td>
+      <td>N/A<BR>2019-06-08</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>6,250</td>
+      <td>$0</td>
+      <td>122,487<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-047861.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-07-09<BR>Option Award</td>
+      <td>2014-07-11<BR>5:21 pm</td>
+      <td>N/A<BR>2021-07-09</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1134069.htm">Pincus Mark J</a><BR><span class="pos">Chief Product Officer<BR>Director<BR>10% Owner</span></td>
+      <td>83,056</td>
+      <td>$0</td>
+      <td>83,056<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-046820.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-07-09<BR>Option Award</td>
+      <td>2014-07-11<BR>5:20 pm</td>
+      <td>N/A<BR>2021-07-09</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1593861.htm">Dugan Regina E</a><BR><span class="pos">Director</span></td>
+      <td>76,135</td>
+      <td>$0</td>
+      <td>76,135<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-046818.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-08<BR>Exercise</td>
+      <td>2014-07-09<BR>6:23 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1193852.htm">Mattrick Donald A.</a><BR><span class="pos">Chief Executive Officer<BR>Director</span></td>
+      <td>4,046,428</td>
+      <td>$0</td>
+      <td>4,882,143<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-046585.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-07-08<BR>Exercise</td>
+      <td>2014-07-09<BR>6:23 pm</td>
+      <td>N/A<BR>2020-07-15</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1193852.htm">Mattrick Donald A.</a><BR><span class="pos">Chief Executive Officer<BR>Director</span></td>
+      <td>4,046,428</td>
+      <td>$0</td>
+      <td>4,882,143<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-046585.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-15<BR>Conversion</td>
+      <td>2014-06-17<BR>5:21 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>115,160<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-042076.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-15<BR>Exercise</td>
+      <td>2014-06-17<BR>5:21 pm</td>
+      <td>N/A<BR>2019-03-09</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1591054.htm">Shah Devang</a><BR><span class="pos">General Counsel, Sec. and VP</span></td>
+      <td>1,250</td>
+      <td>$0</td>
+      <td>115,160<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-042076.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>5:04 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041329.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>5:04 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041329.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-06-11<BR>Option Award</td>
+      <td>2014-06-13<BR>5:04 pm</td>
+      <td>N/A<BR>2021-06-11</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1032455.htm">Doerr L John</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>78,616</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041329.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:37 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>300,036<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041306.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:37 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>300,036<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041306.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-06-11<BR>Option Award</td>
+      <td>2014-06-13<BR>4:37 pm</td>
+      <td>N/A<BR>2021-06-11</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1386430.htm">Siminoff Ellen F</a><BR><span class="pos">Director</span></td>
+      <td>78,616</td>
+      <td>$0</td>
+      <td>300,036<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041306.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:35 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041304.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:35 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041304.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-06-11<BR>Option Award</td>
+      <td>2014-06-13<BR>4:35 pm</td>
+      <td>N/A<BR>2021-06-11</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1123392.htm">Paul Sunil</a><BR><span class="pos">Director</span></td>
+      <td>78,616</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041304.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:33 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>98,360</td>
+      <td>$0</td>
+      <td>174,613<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041300.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:33 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>98,360</td>
+      <td>$0</td>
+      <td>174,613<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041300.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-06-11<BR>Option Award</td>
+      <td>2014-06-13<BR>4:33 pm</td>
+      <td>N/A<BR>2021-06-11</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>94,339</td>
+      <td>$0</td>
+      <td>174,613<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041300.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:32 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1306911.htm">Katzenberg Jeffrey</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041297.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:32 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1306911.htm">Katzenberg Jeffrey</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041297.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041294.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:30 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041294.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="A">2014-06-11<BR>Option Award</td>
+      <td>2014-06-13<BR>4:30 pm</td>
+      <td>N/A<BR>2021-06-11</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1229590.htm">Gordon William B</a><BR><span class="pos">Director<BR>10% Owner</span></td>
+      <td>157,232</td>
+      <td>$0</td>
+      <td>15,217,880<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041294.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-06-11<BR>Conversion</td>
+      <td>2014-06-13<BR>4:29 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1519339.htm">Hoffman Reid</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041292.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="M">2014-06-11<BR>Exercise</td>
+      <td>2014-06-13<BR>4:29 pm</td>
+      <td>N/A<BR>2020-06-04</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1519339.htm">Hoffman Reid</a><BR><span class="pos">Director</span></td>
+      <td>81,967</td>
+      <td>$0</td>
+      <td>123,289<BR><span class="ownership">(Direct)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-041292.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-05-15<BR>Conversion</td>
+      <td>2014-05-19<BR>7:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>1,666</td>
+      <td>$0</td>
+      <td>76,253<BR><span class="ownership">(Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-035314.htm">View</a></td>
+    </tr>
+    <tr>
+      <td class="C">2014-05-15<BR>Conversion</td>
+      <td>2014-05-19<BR>7:30 pm</td>
+      <td>N/A<BR>N/A</td>
+      <td>Zynga Inc</td>
+      <td><a rel="nofollow" OnMouseOver="return statusMsg();" class="qLink" href="#S2" OnClick="singleQuoteDialog1('ZNGA'); return false;">ZNGA</a></td>
+      <td><a href="/insider-trading/1283102.htm">Meresman Stanley J</a><BR><span class="pos">Director</span></td>
+      <td>1,666</td>
+      <td>$0</td>
+      <td>76,253<BR><span class="ownership">(Indirect)</span></td>
+      <td><a rel="nofollow" href="/filings/1439404/0001209191-14-035314.htm">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<script type="text/javascript">
+  var option_table = new SortableTable( document.getElementById( "option_table" ),[ "String", "String", "String", "String", "String", "String", "Number", "Currency", "Number", "None" ] );
+  option_table.sort( 1, true, "String" );
+</script>
+
+
+<div style="text-align: center;"><font style="color: rgb(0, 0, 153); font-weight: bold;" size="-1">
+Goto page 0,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '1439404-1' ); return false;">1</a>,
+<a href="#P2" rel="nofollow" OnClick="cikRecord( '1439404-2' ); return false;">2</a>,
+<a href="#P3" rel="nofollow" OnClick="cikRecord( '1439404-3' ); return false;">3</a>,
+<a href="#P4" rel="nofollow" OnClick="cikRecord( '1439404-4' ); return false;">4</a>,
+<a href="#P1" rel="nofollow" OnClick="cikRecord( '1439404-1' ); return false;">Next</a></font></div>
+  <div style="clear:both;height:auto;">
+<table id="footer" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+  <tr>
+  <td valign="middle">
+    &copy; 2005-2015 <a href="/">SecForm4.Com</a> All rights reserved.<br>
+    Archives:
+    <a href="/archives/2015.htm">2015</a> <a href="/archives/2014.htm">2014</a> <a href="/archives/2013.htm">2013</a> <a href="/archives/2012.htm">2012</a> <a href="/archives/2011.htm">2011</a> <a href="/archives/2010.htm">2010</a> <a href="/archives.htm">...</a> <br>
+    Thu, 09 Jul 2015 14:54:24 -0500
+  </td>
+  <td valign="middle">
+    SEC is the U.S. Securities and Exchange Commission. EDGAR is a trademark of the SEC.<br>
+    SecForm4.Com is not affiliated with or approved by the U.S. Securities and Exchange Commission (SEC).<br>
+    <a rel="nofollow" href="/site/tos.htm">Terms of Use</a> |
+    <a rel="nofollow" href="/site/privacy.htm">Privacy Statement</a> |
+  </td>
+  </tr>
+</tbody>
+</table>
+
+  </div>
+
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-642623-4");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
